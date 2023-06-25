@@ -1,0 +1,15 @@
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\obj\Debug\net7.0\Recursion.csproj.AssemblyReference.cache
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\obj\Debug\net7.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\obj\Debug\net7.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\obj\Debug\net7.0\Recursion.AssemblyInfo.cs
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\obj\Debug\net7.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\bin\Debug\net7.0\Recursion.exe
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\bin\Debug\net7.0\Recursion.deps.json
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\bin\Debug\net7.0\Recursion.runtimeconfig.json
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\bin\Debug\net7.0\Recursion.dll
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\bin\Debug\net7.0\Recursion.pdb
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\obj\Debug\net7.0\Recursion.dll
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\obj\Debug\net7.0\refint\Recursion.dll
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\obj\Debug\net7.0\Recursion.pdb
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\obj\Debug\net7.0\Recursion.genruntimeconfig.cache
+C:\Users\Vitalis\Desktop\Programavimas\Recursion\Recursion\obj\Debug\net7.0\ref\Recursion.dll

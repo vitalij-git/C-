@@ -1,0 +1,15 @@
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\bin\Debug\net7.0\Pirmas.exe
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\bin\Debug\net7.0\Pirmas.deps.json
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\bin\Debug\net7.0\Pirmas.runtimeconfig.json
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\bin\Debug\net7.0\Pirmas.dll
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\bin\Debug\net7.0\Pirmas.pdb
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\obj\Debug\net7.0\Pirmas.csproj.AssemblyReference.cache
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\obj\Debug\net7.0\Pirmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\obj\Debug\net7.0\Pirmas.AssemblyInfoInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\obj\Debug\net7.0\Pirmas.AssemblyInfo.cs
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\obj\Debug\net7.0\Pirmas.csproj.CoreCompileInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\obj\Debug\net7.0\Pirmas.dll
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\obj\Debug\net7.0\refint\Pirmas.dll
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\obj\Debug\net7.0\Pirmas.pdb
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\obj\Debug\net7.0\Pirmas.genruntimeconfig.cache
+C:\Users\Vitalis\Desktop\Programavimas\Pirmas\PirmasProjektas\Pirmas\obj\Debug\net7.0\ref\Pirmas.dll

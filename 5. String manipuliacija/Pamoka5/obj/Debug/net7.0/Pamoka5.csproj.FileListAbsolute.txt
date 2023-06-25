@@ -1,0 +1,30 @@
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\bin\Debug\net7.0\Pamoka5.exe
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\bin\Debug\net7.0\Pamoka5.deps.json
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\bin\Debug\net7.0\Pamoka5.runtimeconfig.json
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\bin\Debug\net7.0\Pamoka5.dll
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\bin\Debug\net7.0\Pamoka5.pdb
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\obj\Debug\net7.0\Pamoka5.csproj.AssemblyReference.cache
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\obj\Debug\net7.0\Pamoka5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\obj\Debug\net7.0\Pamoka5.AssemblyInfoInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\obj\Debug\net7.0\Pamoka5.AssemblyInfo.cs
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\obj\Debug\net7.0\Pamoka5.csproj.CoreCompileInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\obj\Debug\net7.0\Pamoka5.dll
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\obj\Debug\net7.0\refint\Pamoka5.dll
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\obj\Debug\net7.0\Pamoka5.pdb
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\obj\Debug\net7.0\Pamoka5.genruntimeconfig.cache
+C:\Users\Vitalis\Desktop\Programavimas\Pamoka5\Pamoka5\obj\Debug\net7.0\ref\Pamoka5.dll
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\bin\Debug\net7.0\Pamoka5.exe
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\bin\Debug\net7.0\Pamoka5.deps.json
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\bin\Debug\net7.0\Pamoka5.runtimeconfig.json
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\bin\Debug\net7.0\Pamoka5.dll
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\bin\Debug\net7.0\Pamoka5.pdb
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\obj\Debug\net7.0\Pamoka5.csproj.AssemblyReference.cache
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\obj\Debug\net7.0\Pamoka5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\obj\Debug\net7.0\Pamoka5.AssemblyInfoInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\obj\Debug\net7.0\Pamoka5.AssemblyInfo.cs
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\obj\Debug\net7.0\Pamoka5.csproj.CoreCompileInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\obj\Debug\net7.0\Pamoka5.dll
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\obj\Debug\net7.0\refint\Pamoka5.dll
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\obj\Debug\net7.0\Pamoka5.pdb
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\obj\Debug\net7.0\Pamoka5.genruntimeconfig.cache
+C:\Users\Vitalis\Desktop\Programavimas\5. String manipuliacija\Pamoka5\obj\Debug\net7.0\ref\Pamoka5.dll

@@ -1,0 +1,30 @@
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net7.0\WhileAndDoWhile.exe
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net7.0\WhileAndDoWhile.deps.json
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net7.0\WhileAndDoWhile.runtimeconfig.json
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net7.0\WhileAndDoWhile.dll
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net7.0\WhileAndDoWhile.pdb
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.csproj.AssemblyReference.cache
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.AssemblyInfoInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.AssemblyInfo.cs
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.dll
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\refint\WhileAndDoWhile.dll
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.pdb
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.genruntimeconfig.cache
+C:\Users\Vitalis\Desktop\Programavimas\WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\ref\WhileAndDoWhile.dll
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net7.0\WhileAndDoWhile.exe
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net7.0\WhileAndDoWhile.deps.json
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net7.0\WhileAndDoWhile.runtimeconfig.json
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net7.0\WhileAndDoWhile.dll
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\bin\Debug\net7.0\WhileAndDoWhile.pdb
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.csproj.AssemblyReference.cache
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.AssemblyInfoInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.AssemblyInfo.cs
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.dll
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\refint\WhileAndDoWhile.dll
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.pdb
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\WhileAndDoWhile.genruntimeconfig.cache
+C:\Users\Vitalis\Desktop\Programavimas\6. WhileAndDoWhile\WhileAndDoWhile\obj\Debug\net7.0\ref\WhileAndDoWhile.dll

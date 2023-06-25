@@ -1,0 +1,15 @@
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\bin\Debug\net7.0\RefandOut.exe
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\bin\Debug\net7.0\RefandOut.deps.json
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\bin\Debug\net7.0\RefandOut.runtimeconfig.json
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\bin\Debug\net7.0\RefandOut.dll
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\bin\Debug\net7.0\RefandOut.pdb
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\obj\Debug\net7.0\RefandOut.csproj.AssemblyReference.cache
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\obj\Debug\net7.0\RefandOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\obj\Debug\net7.0\RefandOut.AssemblyInfoInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\obj\Debug\net7.0\RefandOut.AssemblyInfo.cs
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\obj\Debug\net7.0\RefandOut.csproj.CoreCompileInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\obj\Debug\net7.0\RefandOut.dll
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\obj\Debug\net7.0\refint\RefandOut.dll
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\obj\Debug\net7.0\RefandOut.pdb
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\obj\Debug\net7.0\RefandOut.genruntimeconfig.cache
+C:\Users\Vitalis\Desktop\Programavimas\RefandOut\RefandOut\obj\Debug\net7.0\ref\RefandOut.dll

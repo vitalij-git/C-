@@ -1,0 +1,15 @@
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\bin\Debug\net7.0\Swicth.exe
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\bin\Debug\net7.0\Swicth.deps.json
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\bin\Debug\net7.0\Swicth.runtimeconfig.json
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\bin\Debug\net7.0\Swicth.dll
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\bin\Debug\net7.0\Swicth.pdb
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\obj\Debug\net7.0\Swicth.csproj.AssemblyReference.cache
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\obj\Debug\net7.0\Swicth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\obj\Debug\net7.0\Swicth.AssemblyInfoInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\obj\Debug\net7.0\Swicth.AssemblyInfo.cs
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\obj\Debug\net7.0\Swicth.csproj.CoreCompileInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\obj\Debug\net7.0\Swicth.dll
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\obj\Debug\net7.0\refint\Swicth.dll
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\obj\Debug\net7.0\Swicth.pdb
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\obj\Debug\net7.0\Swicth.genruntimeconfig.cache
+C:\Users\Vitalis\Desktop\Programavimas\Swicth\Swicth\obj\Debug\net7.0\ref\Swicth.dll

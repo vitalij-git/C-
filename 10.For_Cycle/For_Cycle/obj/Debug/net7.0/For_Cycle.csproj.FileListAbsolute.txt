@@ -1,0 +1,15 @@
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\bin\Debug\net7.0\For_Cycle.exe
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\bin\Debug\net7.0\For_Cycle.deps.json
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\bin\Debug\net7.0\For_Cycle.runtimeconfig.json
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\bin\Debug\net7.0\For_Cycle.dll
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\bin\Debug\net7.0\For_Cycle.pdb
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\obj\Debug\net7.0\For_Cycle.csproj.AssemblyReference.cache
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\obj\Debug\net7.0\For_Cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\obj\Debug\net7.0\For_Cycle.AssemblyInfoInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\obj\Debug\net7.0\For_Cycle.AssemblyInfo.cs
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\obj\Debug\net7.0\For_Cycle.csproj.CoreCompileInputs.cache
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\obj\Debug\net7.0\For_Cycle.dll
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\obj\Debug\net7.0\refint\For_Cycle.dll
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\obj\Debug\net7.0\For_Cycle.pdb
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\obj\Debug\net7.0\For_Cycle.genruntimeconfig.cache
+C:\Users\Vitalis\Desktop\Programavimas\For_Cycle\For_Cycle\obj\Debug\net7.0\ref\For_Cycle.dll
